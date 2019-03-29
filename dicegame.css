@@ -69,3 +69,21 @@ body{
     background: none;
     border: none;
 }
+
+
+#secret{
+    position: absolute;
+    bottom: 0%;
+    right: 0%;
+    font-size: 25px;
+    background: none;
+    border: none;
+}
+
+
+.dice1{
+    position: absolute;
+    bottom: 34%;
+    right: 24%;
+
+}
